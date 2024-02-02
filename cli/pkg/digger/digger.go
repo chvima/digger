@@ -1,7 +1,6 @@
 package digger
 
 import (
-	"encoding/json"
 	"errors"
 	"fmt"
 	"log"
